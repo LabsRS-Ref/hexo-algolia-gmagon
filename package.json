@@ -1,0 +1,43 @@
+{
+  "name": "hexo-algolia-gmagon",
+  "version": "1.0.0",
+  "description": "Index your content in Algolia Search API",
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "jshint *.js ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LabsRS-Ref/hexo-algolia-gmagon.git"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "keywords": [
+    "gmagon",
+    "hexo",
+    "algolia",
+    "search"
+  ],
+  "author": {
+    "name": "Ian sun",
+    "email": "lauer3912@gmail.com",
+    "url": "https://gmagon.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LabsRS-Ref/hexo-algolia-gmagon/issues"
+  },
+  "homepage": "https://github.com/LabsRS-Ref/hexo-algolia-gmagon",
+  "dependencies": {
+    "algoliasearch": "^3.4.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  },
+  "false": {}
+}
