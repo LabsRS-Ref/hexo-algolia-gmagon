@@ -1,5 +1,6 @@
 > Index content in Algolia Search API.
-
+> Support web site all page index creation
+> code source from https://www.npmjs.com/package/hexo-algolia
 ## Install
 
 Compatible with `node>=4.0.0`.
